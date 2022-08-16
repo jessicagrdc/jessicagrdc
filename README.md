@@ -2,8 +2,8 @@
 
 **Welcome to my GitHub bio!** 😊
 
-- 🔭 I'm a Back-end Developer
-- 💻 coding is my passion
+- 💻 I'm a Back-end Developer
+- :blue_heart: coding is my passion
 - 😻 my cats are called Neo, Ivy and Ikki - inspired by Matrix, Pokémon and Knights of the Zodiac
 
 <div align="center">

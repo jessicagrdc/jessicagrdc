@@ -7,6 +7,11 @@
 - 😻 my cats are called Neo, Ivy and Ikki - inspired by Matrix, Pokémon and Knights of the Zodiac
 
 <div align="center">
+  <a href="https://c.tenor.com/ViR4Tr-0D1YAAAAd/peon-wood-cutting-warcraft3.gif">
+ 
+</div>
+
+<div align="center">
   <a href="https://github.com/jessicagrdc">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jessicagrdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicagrdc&layout=compact&langs_count=7&theme=dracula"/>

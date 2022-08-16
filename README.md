@@ -13,22 +13,27 @@
   <img width="400px" src="https://c.tenor.com/ViR4Tr-0D1YAAAAd/peon-wood-cutting-warcraft3.gif"> 
 </div>
 
-<p></p>
+<br>
+<br>
 
-<div align="center">
+<div align="left">
+  <div align="center">
   <a href="https://github.com/jessicagrdc">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jessicagrdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicagrdc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
   
-<div align="center" style="display: inline_block"><br>
+
+  
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />         
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />      
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />    
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />  
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+  </div>
+ </div>
 <br>
 <br>
   
